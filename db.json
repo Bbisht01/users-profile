@@ -1,0 +1,45 @@
+{
+  "menu":[
+    {
+      "id":1,
+       "title":"Pizza",
+       "type":"Italian",
+       "Price":[150,300],
+       "topping":[{"name":"Onion Pizza","_id":1, "no":0,"img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ugemttaiukyqfhxkfs9i","price":120},{"name":"Mozerrella Pizza","_id":2, "no":0,"img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/shcf1cfpluebp28bwv2e","price":150},{"name":"Capsicum Pizza","_id":3, "no":0,"img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ps7y7jte6tqfbvjfsdhp","price":120}],
+       "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/u3ubwcgga6rr9jdxxobx"
+    },
+    {
+      "id":2,
+      "title":"Chowmein",
+      "type":"Chinese",
+      "Price":[80,110],
+      "topping":[{"name":"Veg Chowmein","_id":1, "no":0,"img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/tatfwpiqlkvz0yziehwp","price":80},{"name":"Non - Veg Chowmein","_id":2, "no":0,"img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lep4hovlujuynpdo9oko","price":110}],
+      "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/znr2lyfkymo9tldpjqgn"
+    },
+    {
+      "id":3,
+      "title":"Burger",
+      "type":"Western",
+      "Price": [50],
+      "topping":[{"name":"Veg Burger","_id":1, "no":0,"img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/g2detcmkrtfsgw68ljih","price":50},{"name":"Non - Veg Burger","_id":2, "no":0,"img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/rgp2lju8gy3bxqc6yowa","price":90}],
+      "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dngisr6rbupjcw9sfbqk"
+    },
+    {
+      "id":4,
+      "title":"Pasta",
+      "type":"Italian",
+       "Price":[100,200],
+       "topping":[{"name":"White Sauce Pasta","_id":1, "no":0,"img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/juww7xqv2oy9zqdgemfy","price":80},{"name":"Red Sauce","_id":2, "no":0,"img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/qguhucpk6oj1mi4v0ig7","price":100}],
+       "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/yq9mwzjcydaz5yqshcog"
+    },
+    {
+      "id":7,
+      "title":"Macaroni",
+      "type":"Italian",
+      "Price":[60,120],
+      "topping":[{"name":"Red Sauce Macaroni","_id":1, "no":0,"img":"https://static.toiimg.com/thumb/55452259.cms?width=1200&height=900","price":80},{"name":"Red Sauce Macaroni","_id":2, "no":0,"img":"https://nishkitchen.com/wp-content/uploads/2019/08/Chinese-Macaroni-1B-480x480.jpg","price":70}],
+      "image":"https://1.bp.blogspot.com/-qjLMgD110Ec/XoHQl_sIRdI/AAAAAAAACaI/gfYniMITZ6srS7QkBuWSF3_DW4bELsPgwCLcBGAsYHQ/s640/macroni.jpeg"
+    }
+   
+  ]
+}
